@@ -1,4 +1,4 @@
-# Teravskis and Lucas 2026 BLA snRNA-seq analysis code
+# Lucas Lab BLA snRNA-seq Analysis Codebase
 
 This repository contains the analysis scripts associated with the Teravskis, Baumgartner, and Lucas 2026 basolateral amygdala (BLA) single-nucleus RNA-seq study. The code supports preprocessing, quality control, clustering, cell-type annotation, barcode reassignment, differential expression, enrichment analysis, regulatory-network analysis, spatial/Tangram analysis, and figure generation.
 
